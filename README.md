@@ -44,5 +44,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 License
 This project is open source and available under the MIT License.
 Contact
-Your Name - your.email@example.com
+Your Name - timcol696@gmail.com
 Project Link: https://github.com/your-username/reading-speed-calculator
